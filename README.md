@@ -1,20 +1,72 @@
-> **👋 GOOD MORNING + GOOD EVENING + GOOD AFTERNOON** -\-\> This message to YOU was made possible by @C-Kuzy
---------------------------------------------------------------------------------------------------------------------
-> 📚 I’m furthering my education in **Computer Science Engineering** (_BSCSE_) @ The **University of South Florida** (**_USF_**) 📚
---------------------------------------------------------------------------------------------------------------------
-> 💡 I’m primarily broadening my passion in the future of Software Engineering and *AI/ML* Applications 💡
---------------------------------------------------------------------------------------------------------------------
-> 😄 I'm currently learning more about **SWE / SDE / AI/ML**
---------------------------------------------------------------------------------------------------------------------
-> ⚡ Fun fact: I used to be a terrible hockey player, but now I'm on route to be the younguest NCAA D1 Hockey Referee
---------------------------------------------------------------------------------------------------------------------
-> 👀 My current hobbies include Gaming, Car Meets, Reffing Hockey, & of course Programming
+<!-- Welcome to the C-Kuzy/README.md file! Feel free to use any of the code I have below!-->
+
+<!-- Introduction Line w/ Impactful & Professional Statement-->
+<h1 align = "center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
+<h3 align = "center" color = "red"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
+
+<!-- Basic Information: Geographic Location, -->
+<p>
+  <h4>
+    <a align = "center">
+      <a align = "center"> <em> 📡: Tampa, FL </em></a>
+      <a align = "center"> 
+        <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> <!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
+      <a align = "right"> <em><strong> January 2025 -- Present </strong></em></h4> </a>
+  </h4>
+</p>
+<!-- <h4 align = "left"> <em> Tampa, Florida, United States </em><h4 align = "center"> <h4 align = "right"> <em><strong> January 2025 -- Present </strong></em></h4> -->
+
+<h4 align = "center"> </h5>
+
+<h4 align = "center"> - 💡 </h6>
+
+<h4 align = "center"> 🔧 What I'm Currently Learning: <strong>Software Engineering & Web Development</strong> </h3>
 
 
-> **Contact Option(s):** 
+<!-- Displays Programming Experience w/ Icons & Links-->
+<h3 align = "center"> <strong>Programming Experience:</strong> </h3>
+<p align = "center"> 
+  <a href = "https://www.python.org/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt = "Python" width = "50" height = "50" /> </a> 
+  <a href = "https://www.java.com/en" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt = "Java" width = "50" height = "50" /> </a>
+  <a href = "https://www.javascript.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png" alt = "JavaScript" width = "50" height = "50" /> </a>
+  <a href = "https://www.c-language.org/" target = "_blank" rel = "noreferrer"> <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" alt = "C" width = "45" height = "45" /> </a> 
+  <a href = "https://www.learncpp.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png" alt = "C++" width = "50" height = "50" /> </a>
+  <a href = "https://www.w3.org/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" alt = "HTML-5" width = "50" height = "50" /> </a>
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" target = "_blank" rel = "noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" alt = "CSS-3" width = "50" height = "50" /> </a>
+  <a href = "https://www.mathworks.com/products/matlab.html" target = "_blank" rel = "noreferrer"> <img src = "https://cdn0.iconfinder.com/data/icons/3d-infographic-3/64/4.Area_Chart.png" alt = "MATLAB" width = "50" height = "50" /> </a>
+  <a href = "https://rubyonrails.org/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/ruby-64.png" alt = "Ruby-On-Rails" width = "50" height = "50" /> </a>
+  <a href = "https://riscv.org/" target = "_blank" rel = "noreferrer"> <img src = "https://images.icon-icons.com/2148/PNG/512/risc_v_icon_132051.png" alt = "RISC-V" width = "50" height = "50" /> </a>
+</p>
+
+<!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
+<h3 align="Center"><strong>Cloud & Development:</strong></h3>
+<p align = "center"> 
+  <a href = "https://learn.microsoft.com/en-us/windows/wsl/install" target = "_blank" rel = "noreferrer"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt = "WSL/Linux" width = "50" height = "50" /> </a>
+  <a href = "https://ubuntu.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-64.png" alt = "Ubuntu" width = "50" height = "50" /> </a>
+  <a href = "https://code.visualstudio.com/" target = "_blank" rel = "noreferrer"> <img src = "https://img.icons8.com/?size=64&id=i19Ns28h30P4&format=png" alt = "VS Code" width = "50" height = "50" /> </a>
+  <a href = "https://aws.amazon.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/aws-64.png" alt = "AWS" width = "50" height = "50" /> </a>
+  <a href = "https://cloud.google.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-64.png" alt = "Google Cloud" width = "50" height = "50" /> </a>
+  <a href = "https://azure.microsoft.com/en-au" target = "_blank" rel = "noreferrer"> <img src = "https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png" alt = "Azure" width = "50" height = "50" /> </a>
+</p>
+
+<!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
+<h3 align="Center"><strong>DataBases & Tools:</strong></h3>
+<p align = "center"> 
+  <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt = "MySQL" width = "50" height = "50" /> </a>
+  <a href = "https://www.java.com/en/" target = "_blank" rel = "noreferrer"> <img src = "https://www.postgresql.org/media/img/about/press/elephant.png" alt = "PostgreSQL" width = "50" height = "50" /> </a>
+  <a href = "https://www.microsoft.com/en-us/microsoft-365/access" target = "_blank" rel = "noreferrer"> <img src = "https://img.icons8.com/?size=48&id=JdOSrU3pawBf&format=png" alt = "Microsoft Access" width = "50" height = "50" /> </a>
+  <a href = "https://www.adobe.com/creativecloud.html" target = "_blank" rel = "noreferrer"> <img src = "https://img.icons8.com/?size=80&id=LhbjjIkf1NFh&format=png" alt = "Adobe Creative Cloud" width = "50" height = "50" /> </a>
+  <a href = "https://www.solidworks.com/" target = "_blank" rel = "noreferrer"> <img src = "https://img.icons8.com/?size=48&id=62397&format=png" alt = "Solid-Works" width = "50" height = "50" /> </a>
+</p>
+
+- 📧 Need to Contact Me?: 
 > [LinkedIn](www.linkedin.com/in/ckusf04) /
-> [Link to School Email](ckouznetsov@usf.edu) / 
-> [Link to Business Email](c.kuzy92@gmail.com)
+> [Fellow Usf Student](mailto:ckouznetsov@usf.edu) /
+> [Business Inquiries](mailto:c.kuzy92@gmail.com)
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff0000&bg_color=2f2f2f&border_color=ff0000&cache_seconds=1800" alt = "C-Kuzy" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" alt="C-Kuzy" /></p>
 <!---
 C-Kuzy/C-Kuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
