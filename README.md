@@ -8,13 +8,13 @@
 <p>
   <h3 color = "purple">
     <a align = "left"> <strong>📡: Tampa, FL</strong>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </a>
     <a align = "center">
       <img src="https://komarev.com/ghpvc/?username=C-Kuzy&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> <!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </a>
     <a align = "right"> <em><strong> Active Dev. </strong></em> 
     </a>
@@ -45,7 +45,7 @@
 </p>
 
 <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-<h3 align="Center"><strong>Cloud & Development:</strong></h3>
+<h3 align = "center"><strong>Cloud & Development:</strong></h3>
 <p align = "center"> 
   <a href = "https://learn.microsoft.com/en-us/windows/wsl/install" target = "_blank" rel = "noreferrer"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt = "WSL/Linux" width = "50" height = "50" /> </a>
   <a href = "https://ubuntu.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-64.png" alt = "Ubuntu" width = "50" height = "50" /> </a>
@@ -56,7 +56,7 @@
 </p>
 
 <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-<h3 align="Center"><strong>DataBases & Tools:</strong></h3>
+<h3 align = "center"><strong>DataBases & Tools:</strong></h3>
 <p align = "center"> 
   <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt = "MySQL" width = "50" height = "50" /> </a>
   <a href = "https://www.java.com/en/" target = "_blank" rel = "noreferrer"> <img src = "https://www.postgresql.org/media/img/about/press/elephant.png" alt = "PostgreSQL" width = "50" height = "50" /> </a>
@@ -70,9 +70,13 @@
 > [Fellow Usf Student](mailto:ckouznetsov@usf.edu) /
 > [Business Inquiries](mailto:c.kuzy92@gmail.com)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&border_color=ff0000&cache_seconds=1800" alt = "C-Kuzy" /></p>
-<p></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" alt="C-Kuzy" /></p>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&border_color=ff0000&cache_seconds=1800" alt = "C-Kuzy" />
+</p>
+<p>
+  <a color = "red"> ------------------------------------------------------------------------------------------------------------------------------ </a>
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" alt="C-Kuzy" /></p>
 <!---
 C-Kuzy/C-Kuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
