@@ -12,9 +12,9 @@
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </a>
     <a align = "center">
-      <img src="https://komarev.com/ghpvc/?username=C-Kuzy&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> &nbsp;<!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img src="https://komarev.com/ghpvc/?username=C-Kuzy&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> <!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </a>
     <a align = "right"> <em><strong> Active Dev. </strong></em> 
     </a>
