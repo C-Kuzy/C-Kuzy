@@ -2,11 +2,11 @@
 
 <!-- Introduction Line w/ Impactful & Professional Statement-->
 <h1 align = "center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
-<h3 align = "center" color = "red"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
+<h3 align = "center" color = "green"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
 
 <!-- Basic Information: Geographic Location, -->
 <p>
-  <h3 color = "purple">
+  <h3 color = "green">
     <a align = "left"> <strong>📡: Tampa, FL</strong> &nbsp;
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -22,11 +22,11 @@
 </p>
 <!-- <h4 align = "left"> <em> Tampa, Florida, United States </em><h4 align = "center"> <h4 align = "right"> <em><strong> January 2025 -- Present </strong></em></h4> -->
 
-<h4 align = "center"> </h5>
+<h4 align = "center"> </h4>
 
-<h4 align = "center"> - 💡 </h6>
+<h3 align = "center"> 💡 Degree Path: Computer Science Engineering (CSE)</h3>
 
-<h4 align = "center"> 🔧 What I'm Currently Learning: <strong>Software Engineering & Web Development</strong> </h3>
+<h3 align = "center"> 🔧 Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong> </h3>
 
 
 <!-- Displays Programming Experience w/ Icons & Links-->
@@ -66,15 +66,17 @@
 </p>
 
 <h3 align="Center"><strong>📧 Need to Contact Me?:</strong></h3>
-> [LinkedIn](www.linkedin.com/in/ckusf04) /
-> [Fellow Usf Student](mailto:ckouznetsov@usf.edu) /
-> [Business Inquiries](mailto:c.kuzy92@gmail.com)
-
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&border_color=ff0000&cache_seconds=1800" alt = "C-Kuzy" />
+  <a href = "https://www.linkedin.com/in/ckusf04/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" alt = "LinkedIn" width = "50" height = "50"/> </a>
+  <a href = "mailto:c.kuzy92@gmail.com" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt = "Business Email" width = "50" height = "50"/> </a>
+  <a href = "mailto:ckouznetsov@usf.edu" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-64.png" alt = "School Email" width = "50" height = "50"/> </a>
 </p>
 
-<p align = "center" color = "red">
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&border_color=ff0000&cache_seconds=1800" alt = "C-Kuzy" />
+</p>
+
+<p align = "center" color = "white">
   <a> ------------------------------------------------------------------------------------------------------------------------------ </a>
 </p>
 
