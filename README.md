@@ -2,11 +2,11 @@
 
 <!-- Introduction Line w/ Impactful & Professional Statement-->
 <h1 align = "center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
-<h3 align = "center" color = "green"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
+<h3 align = "center" color = "#00FFFF"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
 
 <!-- Basic Information: Geographic Location, -->
 <p>
-  <h3 color = "green">
+  <h3 color = "#00FFFF">
     <a align = "left"> <strong>📡: Tampa, FL</strong> &nbsp;
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
