@@ -1,0 +1,10 @@
+# Applying Necessary Programming Language Ignores for the current Repository
+# Current Repository: C-Kuzy README.md
+
+*.py linguist-detectable=false
+*.java linguist-detectable=false
+*.c linguist-detectable=false
+*.c++ linguist-detectable=false
+*.css linguist-detectable=false
+*.m linguist-detectable=false
+*.s linguist-detectable=false
