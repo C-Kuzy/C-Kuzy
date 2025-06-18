@@ -81,7 +81,7 @@
 </p>
 
 <p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&title_color=ff0000&text_color=ffffff&bg_color=2f2f2f&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" alt="C-Kuzy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&theme=transparent&locale=en&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" alt="C-Kuzy" />
 </p>
 
 <!---
