@@ -2,27 +2,20 @@
 
 <!-- Introduction Line w/ Impactful & Professional Statement-->
 <h1 align = "center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
-<h3 align = "center" color = "#00FFFF"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
+<h3 align = "center"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
 
 <!-- Basic Information: Geographic Location, -->
 <p>
-  <h3 color = "#00FFFF">
-    <a align = "left"> <strong>📡: Tampa, FL</strong> &nbsp;
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    </a>
-    <a align = "center">
-      <img src="https://komarev.com/ghpvc/?username=C-Kuzy&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> <!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    </a>
-    <a align = "right"> <em><strong> Active Dev. </strong></em> 
+  <h3 align = "center">
+    <a> 
+        <strong>📡: Tampa, FL</strong>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <img src="https://komarev.com/ghpvc/?username=C-Kuzy&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> <!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <strong> EST 2024 </strong>
     </a>
   </h3>
 </p>
-<!-- <h4 align = "left"> <em> Tampa, Florida, United States </em><h4 align = "center"> <h4 align = "right"> <em><strong> January 2025 -- Present </strong></em></h4> -->
-
-<h4 align = "center"> </h4>
 
 <h3 align = "center"> 💡 Degree Path: Computer Science Engineering (CSE)</h3>
 
@@ -76,15 +69,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" alt = "C-Kuzy" />
 </p>
 
-<p align = "center" color = "white">
-  <a> ------------------------------------------------------------------------------------------------------------------------------ </a>
-</p>
-
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&theme=transparent&locale=en&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" alt="C-Kuzy" />
 </p>
 
-<!---
-C-Kuzy/C-Kuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- C-Kuzy/C-Kuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes. --->
