@@ -38,7 +38,7 @@
 </p>
 
 <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-<h3 align = "center"><strong>Cloud & Development:</strong></h3>
+<h3 align = "center"> <strong>Cloud & Development:</strong></h3>
 <p align = "center"> 
   <a href = "https://learn.microsoft.com/en-us/windows/wsl/install" target = "_blank" rel = "noreferrer"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt = "WSL/Linux" width = "50" height = "50" /> </a>
   <a href = "https://ubuntu.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-64.png" alt = "Ubuntu" width = "50" height = "50" /> </a>
@@ -49,7 +49,7 @@
 </p>
 
 <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-<h3 align = "center"><strong>DataBases & Tools:</strong></h3>
+<h3 align = "center"> <strong>DataBases & Tools:</strong></h3>
 <p align = "center"> 
   <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt = "MySQL" width = "50" height = "50" /> </a>
   <a href = "https://www.java.com/en/" target = "_blank" rel = "noreferrer"> <img src = "https://www.postgresql.org/media/img/about/press/elephant.png" alt = "PostgreSQL" width = "50" height = "50" /> </a>
@@ -58,7 +58,7 @@
   <a href = "https://www.solidworks.com/" target = "_blank" rel = "noreferrer"> <img src = "https://img.icons8.com/?size=48&id=62397&format=png" alt = "Solid-Works" width = "50" height = "50" /> </a>
 </p>
 
-<h3 align="Center"><strong>📧 Need to Contact Me?:</strong></h3>
+<h3 align="Center"> <strong>📧 Need to Contact Me?:</strong></h3>
 <p align = "center">
   <a href = "https://www.linkedin.com/in/ckusf04/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" alt = "LinkedIn" width = "50" height = "50"/> </a>
   <a href = "mailto:c.kuzy92@gmail.com" target = "_blank" rel = "noreferrer"> <img src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt = "Business Email" width = "50" height = "50"/> </a>
