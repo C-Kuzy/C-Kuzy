@@ -8,3 +8,4 @@
 *.css linguist-detectable=false
 *.m linguist-detectable=false
 *.s linguist-detectable=false
+*.go linguist-detectable=false
