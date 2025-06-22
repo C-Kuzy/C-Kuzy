@@ -1,10 +1,23 @@
+"""
+ Author: C-Kuzy
+ Description: Defining use of my '.gitattributes' file
+
+        This defines attributes for Git/Github behavior, including:
+
+        #1. - Scanning imported documents in this repository for HTML files and written code
+        #2. - Ignoring the 'existence' of files using 'programming language(s)' undefined from the current project
+        #3. - Ensuring no overlap of existing code files for seamless repository organization
+        
+"""
+
 # Applying Necessary Programming Language Ignores for the current Repository
-# Current Repository: C-Kuzy README.md
+# Current Repository: C-Kuzy/C-Kuzy/README 
 
 *.py linguist-detectable=false
 *.java linguist-detectable=false
 *.c linguist-detectable=false
 *.c++ linguist-detectable=false
+*.js linguist-detectable=false
 *.css linguist-detectable=false
 *.m linguist-detectable=false
 *.s linguist-detectable=false
