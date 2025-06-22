@@ -14,7 +14,7 @@
  # Current Repository: C-Kuzy/C-Kuzy/README
 
  "Files This Repository Wants to detect:"
-  *html linguist-detectable=true
+  *.html linguist-detectable=true
 
  "Files This Repository is Restricing:"
   *.py linguist-detectable=false
