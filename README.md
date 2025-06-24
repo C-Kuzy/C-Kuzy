@@ -24,7 +24,6 @@
 
   <h3 align = "center"> 🔧 Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong> </h3>
 
-
   <!-- Displays Programming Experience w/ Icons & Links-->
   <h3 align = "center"> <strong>Programming Experience:</strong> </h3>
   <p align = "center"> 
