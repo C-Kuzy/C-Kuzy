@@ -5,7 +5,7 @@
 <a id = "readme-top"></a>
 <!-- Introduction Line w/ Impactful & Professional Statement-->
   <h1 align = "center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
-  <h3 align = "center"> <em>An Uprising Professional Problem Solver in the World of Tech</em></h3>
+  <h3 align = "center"> <strong>An Uprising Professional Problem Solver in the World of Tech</strong></h3>
 
   <!-- Basic Information: Geographic Location, -->
   <p>
