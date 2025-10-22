@@ -1,6 +1,6 @@
  """
  Author: C-Kuzy
- Description: Defining use of my '.gitattributes' file
+ Description: Defining use of my '.gitattributes' file langs
 
         This defines attributes for Git/Github behavior, including:
 
