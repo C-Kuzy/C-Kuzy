@@ -29,4 +29,5 @@
   *.go linguist-detectable=false
   *.txt linguist-detectable=false
   *.rtf linguist-detectable=false
-  *.msg linguust-detectable=false
+  *.msg linguist-detectable=false
+  *.xls linguist-detectable=false
