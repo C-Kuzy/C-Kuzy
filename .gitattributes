@@ -2,7 +2,7 @@
  Author: C-Kuzy
  Description: Defining use of my '.gitattributes' file langs
 
-        This defines attributes for Git/Github behavior, including:
+        This defines all attributes for Git/Github behavior, including:
 
         #1. - Scanning imported documents in this repository for HTML files and written code
         #2. - Ignoring the 'existence' of files using 'programming language(s)' undefined from the current project
