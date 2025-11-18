@@ -1,6 +1,6 @@
  """
  Author: C-Kuzy
- Description: Defining use of my '.gitattributes' file langs
+ Description: Defining use of my '.gitattributes' file languages
 
         This defines all attributes for Git/Github behavior, including:
 
