@@ -31,3 +31,4 @@
   *.rtf linguist-detectable=false
   *.msg linguist-detectable=false
   *.xls linguist-detectable=false
+  *.ipynb linguist-detectable=false
