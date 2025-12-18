@@ -115,6 +115,10 @@
         alt = "School Email" width = "50" height = "50"/> </a>
   </p>
 
+
+
+<!-- EDIT EXISTING CODE AS ERROR FROM CUSTOM REPO STATS IS NOT WORKING --> 
+
   <!--<p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" 
       alt = "C-Kuzy" />
