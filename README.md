@@ -14,11 +14,11 @@
     <a id="readme-top"></a>
 
     <!-- Introduction Line w/ Impactful & Professional Statement-->
-    <h1 align="center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
-    <h3 align="center"> <strong>An Uprising Professional Problem Solver in the World of Tech</strong></h3>
+<h1 align="center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
+<h3 align="center"> <strong>An Uprising Professional Problem Solver in the World of Tech</strong></h3>
 
     <!-- Basic Information: Geographic Location, -->
-    <p>
+<p>
     <h3 align="center">
         <a>
             <strong>📡: Tampa, FL</strong>
@@ -35,7 +35,7 @@
     <h3 align="center"> 🔧 Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong> </h3>
 
     <!-- Displays Programming Experience w/ Icons & Links-->
-    <h3 align="center"> <strong>Programming Experience:</strong> </h3>
+<h3 align="center"> <strong>Programming Experience:</strong> </h3>
     <p align="center">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
@@ -72,13 +72,13 @@
         
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
             <img src="https://cdn0.iconfinder.com/data/icons/3d-infographic-3/64/4.Area_Chart.png" alt="MATLAB"
-                width="50" height="50" /> </a> 
+                  width="50" height="50" /> </a> 
                 
     -->
     </p>
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-    <h3 align="center"><strong>Cloud & Development:</strong></h3>
+<h3 align="center"><strong>Cloud & Development:</strong></h3>
     <p align="center">
         <a href=" " target="_blank" rel="noreferrer"
             <img src=""
@@ -104,7 +104,7 @@
     </p>
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-    <h3 align="center"><strong>DataBases & Tools:</strong></h3>
+<h3 align="center"><strong>DataBases & Tools:</strong></h3>
     <p align="center">
         <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt="MySQL"
@@ -126,7 +126,7 @@
                 width="50" height="50" /> </a>
     </p>
 
-    <h3 align="center"><strong>Need to Contact Me?:</strong></h3>
+<h3 align="center"><strong>Need to Contact Me?:</strong></h3>
     <p align="center">
         <a href="https://www.linkedin.com/in/ckusf04/" target="_blank" rel="noreferrer">
             <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png"
@@ -139,17 +139,17 @@
                 alt="School Email" width="50" height="50" /> </a>
     </p>
 
-    <p align="center">
+<p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800"
             alt="C-Kuzy" />
     </p>
 
-    <p align="center">
+<p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800"
             alt="C-Kuzy" />
     </p>
 
-    <footer>
+<footer>
         <p align="center" text-sm>
             © 2025 C-Kuzy Solutions |
             <a href="#readme-top" class="back-to-top-btn"> Back to Top </a>
