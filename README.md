@@ -3,12 +3,11 @@
 <!DOCTYPE html>
 <html lang="en" data-darkreader-mode="dynamic" data-darkreader="dark" injected="true">
 
-<head>
+<!-- <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width = device - width, initial - scale = 1.0" />
     <title>C-Kuzy | README</title>
-    
-</head>
+</head> -->
 
 <body style="background-color: black", text="white">
     <a id="readme-top"></a>
