@@ -46,11 +46,17 @@
 <!-- Displays Programming Experience w/ Icons & Links-->
 <h3 align="center"> <strong>Programming Experience:</strong> </h3>
 <p align="center">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://go.dev/images/go-logo-white.svg" alt="GoLang"
+            width="50" height="50" /> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
             width="50" height="50" /> </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer">
-        <img src="https://go.dev/images/go-logo-white.svg" alt="GoLang"
+    <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
+            alt="C" width="45" height="45" /> </a>
+    <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png" alt="C++"
             width="50" height="50" /> </a>
     <a href="https://www.java.com/en" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt="Java"
@@ -58,12 +64,6 @@
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png"
             alt="JavaScript" width="50" height="50" /> </a>
-    <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
-            alt="C" width="45" height="45" /> </a>
-    <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png" alt="C++"
-            width="50" height="50" /> </a>
     <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" alt="HTML-5" width="50"
             height="50" /> </a>
