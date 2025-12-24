@@ -74,7 +74,7 @@
                   width="50" height="50" /> </a> 
                 
     -->
-    </p>
+</p>
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
 <h3 align="center"><strong>Cloud & Development:</strong></h3>
