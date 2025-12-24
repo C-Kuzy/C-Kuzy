@@ -49,9 +49,6 @@
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
         <img src="https://go.dev/images/go-logo-white.svg" alt="GoLang"
             width="50" height="50" /> </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
-            width="50" height="50" /> </a>
     <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
             alt="C" width="45" height="45" /> </a>
@@ -60,6 +57,9 @@
             width="50" height="50" /> </a>
     <a href="https://www.java.com/en" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt="Java"
+            width="50" height="50" /> </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
             width="50" height="50" /> </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png"
