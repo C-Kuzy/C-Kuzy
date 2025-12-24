@@ -13,11 +13,11 @@
 <body style="background-color: black", text="white">
     <a id="readme-top"></a>
 
-    <!-- Introduction Line w/ Impactful & Professional Statement-->
+<!-- Introduction Line w/ Impactful & Professional Statement-->
 <h1 align="center"> <strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
 <h3 align="center"> <strong>An Uprising Professional Problem Solver in the World of Tech</strong></h3>
 
-    <!-- Basic Information: Geographic Location, -->
+<!-- Basic Information: Geographic Location, -->
 <p>
     <h3 align="center">
         <a>
@@ -34,7 +34,7 @@
     <h3 align="center"> 💡 Degree Path: Computer Science Engineering (CSE)</h3>
     <h3 align="center"> 🔧 Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong> </h3>
 
-    <!-- Displays Programming Experience w/ Icons & Links-->
+<!-- Displays Programming Experience w/ Icons & Links-->
 <h3 align="center"> <strong>Programming Experience:</strong> </h3>
     <p align="center">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
