@@ -35,8 +35,8 @@
 
 <!-- Displays Programming Experience w/ Icons & Links-->
 <h3 align="center"> <strong>Programming Experience:</strong> </h3>
-<p align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <p align="center">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
             width="50" height="50" /> </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
@@ -66,14 +66,14 @@
         <a href="https://riscv.org/" target="_blank" rel="noreferrer">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwH-Wc4tlbzGOZ0EqYbP4ijuP3cuGA_B9Av5LXG6IDIIkNQVhdQAPaE8-_ayDFMLpkCTetH0fTEEtc8W0qqFfgaXdEltmAUIKA17bl8_Tlg&s=10" alt="RISC-V" width="50"
                 height="50" /> </a>
-    <!--                                    
+            <!--                                    
                         LANGUAGES I'M LOOKING TO PRACTICE IN...
         
-        <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+            <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
             <img src="https://cdn0.iconfinder.com/data/icons/3d-infographic-3/64/4.Area_Chart.png" alt="MATLAB"
                   width="50" height="50" /> </a> 
                 
-    -->
+            -->
 </p>
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
@@ -104,7 +104,7 @@
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
 <h3 align="center"><strong>DataBases & Tools:</strong></h3>
-<p align="center">
+    <p align="center">
         <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt="MySQL"
                 width="50" height="50" /> </a> -->
@@ -123,7 +123,7 @@
         <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
             <img src="https://img.icons8.com/?size=48&id=62397&format=png" alt="Solid-Works 3D Building Software"
                 width="50" height="50" /> </a>
-</p>
+    </p>
 
 <h3 align="center"><strong>Need to Contact Me?:</strong></h3>
     <p align="center">
