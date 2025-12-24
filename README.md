@@ -29,28 +29,28 @@
             <strong> EST 2024 </strong>
         </a>
     </h3>
-    </p>
+</p>
     <h3 align="center"> 💡 Degree Path: Computer Science Engineering (CSE)</h3>
     <h3 align="center"> 🔧 Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong> </h3>
 
 <!-- Displays Programming Experience w/ Icons & Links-->
 <h3 align="center"> <strong>Programming Experience:</strong> </h3>
-    <p align="center">
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
-                width="50" height="50" /> </a>
-        <a href="https://go.dev/" target="_blank" rel="noreferrer">
-            <img src="https://go.dev/images/go-logo-white.svg" alt="GoLang"
-                width="50" height="50" /> </a>
-        <a href="https://www.java.com/en" target="_blank" rel="noreferrer">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt="Java"
-                width="50" height="50" /> </a>
-        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png"
-                alt="JavaScript" width="50" height="50" /> </a>
-        <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
-            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
-                alt="C" width="45" height="45" /> </a>
+<p align="center">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="Python"
+            width="50" height="50" /> </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://go.dev/images/go-logo-white.svg" alt="GoLang"
+            width="50" height="50" /> </a>
+    <a href="https://www.java.com/en" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt="Java"
+            width="50" height="50" /> </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png"
+            alt="JavaScript" width="50" height="50" /> </a>
+    <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
+            alt="C" width="45" height="45" /> </a>
         <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png" alt="C++"
                 width="50" height="50" /> </a>
@@ -78,7 +78,7 @@
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
 <h3 align="center"><strong>Cloud & Development:</strong></h3>
-    <p align="center">
+<p align="center">
         <a href=" " target="_blank" rel="noreferrer"
             <img src=""
                 alt=""IBM Power Systems" width="50" height-"50" /> </a>
@@ -100,11 +100,11 @@
         <a href="https://azure.microsoft.com/en-au" target="_blank" rel="noreferrer">
             <img src="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png" alt="Azure" width="50" height="50" />
         </a>
-    </p>
+</p>
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
 <h3 align="center"><strong>DataBases & Tools:</strong></h3>
-    <p align="center">
+<p align="center">
         <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt="MySQL"
                 width="50" height="50" /> </a> -->
@@ -123,7 +123,7 @@
         <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
             <img src="https://img.icons8.com/?size=48&id=62397&format=png" alt="Solid-Works 3D Building Software"
                 width="50" height="50" /> </a>
-    </p>
+</p>
 
 <h3 align="center"><strong>Need to Contact Me?:</strong></h3>
     <p align="center">
