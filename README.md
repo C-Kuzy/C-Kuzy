@@ -106,7 +106,7 @@
     <a href="https://azure.microsoft.com/en-au" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png" 
             alt="Azure" width="50" height="50" /> </a>
-    </p>
+</p>
 
     <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
     <h3 align="center"><strong>DataBases & Tools:</strong></h3>
