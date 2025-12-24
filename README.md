@@ -108,28 +108,28 @@
             alt="Azure" width="50" height="50" /> </a>
 </p>
 
-    <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-    <h3 align="center"><strong>DataBases & Tools:</strong></h3>
-    <p align="center">
-        <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt="MySQL"
-                width="50" height="50" /> </a> -->
-        <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
-            <img src="https://img.icons8.com/?size=48&id=JdOSrU3pawBf&format=png" alt="Microsoft Access" width="50"
-                height="50" /> </a>
-        <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/20_kubernetes-128.png" alt="Kubernetes" width="50"
-                height="50" /> </a>
-        <a href="https://github.com/derailed/k9s" target="_blank" rel="noreferrer">
-            <img src="https://github.com/derailed/k9s/raw/master/assets/k9s.png" alt="Derailed k9sCLI" width="70"
-                height="50" /> </a>
-        <a href="https://www.adobe.com/creativecloud.html" target="_blank" rel="noreferrer">
-            <img src="https://img.icons8.com/?size=80&id=LhbjjIkf1NFh&format=png" alt="Adobe Creative Cloud" width="50"
-                height="50" /> </a>
-        <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.icons8.com/?size=48&id=62397&format=png" alt="Solid-Works 3D Building Software"
-                width="50" height="50" /> </a>
-    </p>
+<!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
+<h3 align="center"><strong>DataBases & Tools:</strong></h3>
+<p align="center">
+    <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" alt="MySQL"
+            width="50" height="50" /> </a> -->
+    <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=48&id=JdOSrU3pawBf&format=png" alt="Microsoft Access" width="50"
+            height="50" /> </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/20_kubernetes-128.png" alt="Kubernetes" width="50"
+            height="50" /> </a>
+    <a href="https://github.com/derailed/k9s" target="_blank" rel="noreferrer">
+        <img src="https://github.com/derailed/k9s/raw/master/assets/k9s.png" alt="Derailed k9sCLI" width="70"
+            height="50" /> </a>
+    <a href="https://www.adobe.com/creativecloud.html" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=80&id=LhbjjIkf1NFh&format=png" alt="Adobe Creative Cloud" width="50"
+            height="50" /> </a>
+    <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=48&id=62397&format=png" alt="Solid-Works 3D Building Software"
+            width="50" height="50" /> </a>
+</p>
 
     <h3 align="center"><strong>Need to Contact Me?:</strong></h3>
     <p align="center">
