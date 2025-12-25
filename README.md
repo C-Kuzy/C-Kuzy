@@ -131,35 +131,35 @@
             width="50" height="50" /> </a>
 </p>
 
-    <h3 align="center"><strong>Need to Contact Me?:</strong></h3>
-    <p align="center">
-        <a href="https://www.linkedin.com/in/ckusf04/" target="_blank" rel="noreferrer">
-            <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png"
-                alt="LinkedIn" width="50" height="50" /> </a>
-        <a href="mailto:c.kuzy92@gmail.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png"
-                alt="Business Email" width="50" height="50" /> </a>
-        <a href="mailto:ckouznetsov@usf.edu" target="_blank" rel="noreferrer">
-            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-64.png"
-                alt="School Email" width="50" height="50" /> </a>
-    </p>
+<h3 align="center"><strong>Need to Contact Me?:</strong></h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ckusf04/" target="_blank" rel="noreferrer">
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png"
+            alt="LinkedIn" width="50" height="50" /> </a>
+    <a href="mailto:c.kuzy92@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png"
+            alt="Business Email" width="50" height="50" /> </a>
+    <a href="mailto:ckouznetsov@usf.edu" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-64.png"
+            alt="School Email" width="50" height="50" /> </a>
+</p>
 
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800"
-            alt="C-Kuzy" />
-    </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800"
+        alt="C-Kuzy" />
+</p>
 
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800"
-            alt="C-Kuzy" />
-    </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800"
+        alt="C-Kuzy" />
+</p>
 
-    <footer>
-        <p align="center" text-sm>
+<footer>
+    <p align="center" text-sm>
             © 2025 C-Kuzy Solutions |
             <a href="#readme-top" class="back-to-top-btn"> Back to Top </a>
-        </p>
-    </footer>
+    </p>
+</footer>
 </body>
 </html>
 
