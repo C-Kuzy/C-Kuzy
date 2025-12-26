@@ -24,15 +24,15 @@
 <!-- Customized Degree Progression Bar -->
 <!-- TO UPDATE: Change the width percentages in the two divs below -->
 <!-- currentCredits: 86 = 72%, upcomingCredits: 16 = 13%, Total: 102/120 = 85% -->
-<div align="center">
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px; max-width: 600px;">
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
         <span style="font-size: 14px;">Credits Completed</span>
         <span style="font-size: 14px;"><strong>102</strong> / 120 (<strong>85</strong>%)</span>
     </div>
-    <div style="width: 100%; max-width: 600px; background-color: #333; border-radius: 10px; border: 2px solid #555; position: relative; height: 30px; overflow: hidden; margin: 0 auto;">
-        <div style="position: absolute; top: 0; left: 0; height: 30px; display: flex; width: 100%;">
-            <div style="width: 72%; height: 100%; background-color: #32CD32; flex-shrink: 0;"></div>
-            <div style="width: 13%; height: 100%; background-color: #FFD700; flex-shrink: 0;"></div>
+    <div style="width: 100%; background-color: #333; border-radius: 10px; border: 2px solid #555; height: 30px; overflow: hidden;">
+        <div style="display: flex; height: 100%;">
+            <div style="width: 72%; background-color: #32CD32;"></div>
+            <div style="width: 13%; background-color: #FFD700;"></div>
         </div>
     </div>
 </div>
@@ -72,10 +72,9 @@
             alt="CSS-3" width="50" height="50" /> </a>
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/ruby-64.png"
-            alt="Ruby-On-Rails" width="50" height="50" /> </a>
+            alt="Ruby-On-Rails" width="50" height="50" /> </a> &nbsp;
     <a href="https://riscv.org/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwH-Wc4tlbzGOZ0EqYbP4ijuP3cuGA_B9Av5LXG6ID
-                IIkNQVhdQAPaE8-_ayDFMLpkCTetH0fTEEtc8W0qqFfgaXdEltmAUIKA17bl8_Tlg&s=10"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RISC-V_icon.svg/60px-RISC-V_icon.svg.png?20241207195945"
             alt="RISC-V" width="50" width="50" height="50" /> </a>
 </p>
 
