@@ -22,19 +22,15 @@
 <h3 align="center"><strong>Degree: Computer Science Engineering (B.S.C.S.E.)</strong></h3>
 
 <!-- Customized Degree Progression Bar -->
-<!-- TO UPDATE: Change the width percentages in the two divs below -->
-<!-- currentCredits: 86 = 72%, upcomingCredits: 16 = 13%, Total: 102/120 = 85% -->
-<div align="center" style="max-width: 600px; margin: 0 auto;">
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-size: 14px;">Credits Completed</span>
-        <span style="font-size: 14px;"><strong>102</strong> / 120 (<strong>85</strong>%)</span>
-    </div>
-    <div style="width: 100%; background-color: #333; border-radius: 10px; border: 2px solid #555; height: 30px; overflow: hidden;">
-        <div style="display: flex; height: 100%;">
-            <div style="width: 72%; background-color: #32CD32;"></div>
-            <div style="width: 13%; background-color: #FFD700;"></div>
-        </div>
-    </div>
+<!-- TO UPDATE: Change the percentages below to match your credits -->
+<div align="center">
+    <p><strong>Credits Completed: 102 / 120 (85%)</strong></p>
+    <p>
+        <img src="https://img.shields.io/badge/Completed-72%25-32CD32?style=for-the-badge" alt="Completed: 86 credits" />
+        <img src="https://img.shields.io/badge/Upcoming-13%25-FFD700?style=for-the-badge" alt="Upcoming: 16 credits" />
+        <img src="https://img.shields.io/badge/Remaining-15%25-gray?style=for-the-badge" alt="Remaining: 18 credits" />
+    </p>
+    <p>🟢 Completed: 86 credits | 🟡 Upcoming: 16 credits | ⚫ Remaining: 18 credits</p>
 </div>
 
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
