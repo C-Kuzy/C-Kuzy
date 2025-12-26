@@ -72,7 +72,7 @@
             alt="CSS-3" width="50" height="50" /> </a>
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/ruby-64.png"
-            alt="Ruby-On-Rails" width="50" height="50" /> </a> &nbsp;
+            alt="Ruby-On-Rails" width="50" height="50" /> </a>
     <a href="https://riscv.org/" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwH-Wc4tlbzGOZ0EqYbP4ijuP3cuGA_B9Av5LXG6ID
                 IIkNQVhdQAPaE8-_ayDFMLpkCTetH0fTEEtc8W0qqFfgaXdEltmAUIKA17bl8_Tlg&s=10"
