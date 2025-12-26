@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Remaining-15%25-red?style=for-the-badge"
             alt="Remaining: 18 credits" width="155" height="30.5" />
     </p>
-    <strong>🟢 = 86 | 🟡 = 16  | 🔴 = 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
+    <strong>🟢 = 86 | 🟡 = 16  | ⚫= 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
 </div>
 
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
@@ -43,7 +43,7 @@
 <p align="center">
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
         <img src="https://go.dev/images/go-logo-white.svg"
-            alt="GoLang" width="50" height="50" /> </a> &nbsp;
+            alt="GoLang" width="50" height="50" /> </a>
     <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
             alt="C" width="45" height="45" /> </a>
@@ -70,7 +70,7 @@
             alt="CSS-3" width="50" height="50" /> </a>
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/ruby-64.png"
-            alt="Ruby-On-Rails" width="50" height="50" /> </a> &nbsp;
+            alt="Ruby-On-Rails" width="50" height="50" /> </a>
     <a href="https://riscv.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RISC-V_icon.svg/60px-RISC-V_icon.svg.png?20241207195945"
             alt="RISC-V" width="50" width="50" height="50" /> </a>
