@@ -1,21 +1,104 @@
-MIT License
+C-Kuzy Solutions End User License Agreement (EULA)
 
-Copyright (c) December, 2025. Connor (Kuzy) @ C-Kuzy
+Copyright (c) December 2025
+Connor Kouznetsov ("Kuzy") – C-Kuzy Solutions
+All rights reserved.
 
-Permission is hereby permitted, free of charge, to any person looking to obtain 
-a copy of this software and associated documentation files, to 
-deal in the Software without restriction, including without limitation the 
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following set conditions:
+------------------------------------------------------------
 
-The following copyright notice & this permission notice will be included in all total
-copies, redistributions, or substantial portions of the Software produced or distributed.
+1. Grant of License
 
-THE SOFTWARE WILL BE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND EXCEPT USING 
-FOR MALICIOUS PURPOSE, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
-WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND 
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR (C-Kuzy), CONTRIBUTORS, OR COPYRIGHT 
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Curr 2025 #
+Subject to the terms and conditions of this Agreement, C-Kuzy Solutions hereby grants you a
+non-exclusive, worldwide, royalty-free license to use, copy, modify, merge, publish,
+distribute, and sublicense the Software, including for open-source and commercial purposes.
+
+------------------------------------------------------------
+
+2. Attribution Requirement (Mandatory)
+
+Any use, redistribution, modification, or derivative work of the Software must include
+clear and visible attribution to the original author and licensor:
+
+"Original software © 2025 Connor Kouznetsov (C-Kuzy Solutions).
+Used under the C-Kuzy Solutions License."
+
+This attribution must appear in:
+- Source files
+- Documentation
+- License or NOTICE files
+- End-user or distribution materials (where applicable)
+
+Attribution may not be removed, obscured, minimized, or replaced.
+
+------------------------------------------------------------
+
+3. Source File Header Requirement
+
+All source files containing any portion of the Software must include the following
+short-form header at the top of each file, or an equivalent clearly visible notice:
+
+"© 2025 Connor Kouznetsov (C-Kuzy Solutions)
+Licensed under the C-Kuzy Solutions EULA. Attribution required."
+
+Failure to include this header (or an equivalent notice) constitutes a violation of
+this Agreement.
+
+------------------------------------------------------------
+
+4. Open-Source Compatibility
+
+This Software may be incorporated into open-source projects, provided that:
+- Attribution to C-Kuzy Solutions is preserved as described in Sections 2 and 3
+- This license text remains included with the distributed Software
+- No claim of original authorship is made over the portions created by C-Kuzy Solutions
+
+------------------------------------------------------------
+
+5. Substantial Use Threshold (75% Rule)
+
+If an individual, organization, or entity directly uses, copies, or derives
+more than seventy-five percent (75%) of the original Software’s codebase,
+logic, or structure—whether modified or unmodified—they must contact
+C-Kuzy Solutions directly to obtain explicit written permission or a separate
+licensing agreement.
+
+Failure to do so constitutes a violation of this Agreement and results in
+immediate termination of all rights granted herein.
+
+------------------------------------------------------------
+
+6. Restrictions
+
+You may not:
+- Claim authorship or ownership of the original Software
+- Remove or alter copyright, attribution, or license notices
+- Use the Software for unlawful or malicious purposes
+- Circumvent the attribution or substantial use requirements of this Agreement
+
+------------------------------------------------------------
+
+7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT.
+
+------------------------------------------------------------
+
+8. Limitation of Liability
+
+IN NO EVENT SHALL C-KUZY SOLUTIONS, THE AUTHOR, OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+------------------------------------------------------------
+
+9. Termination
+
+This license automatically terminates if you fail to comply with any of its terms,
+including attribution requirements, source file header requirements, or the
+substantial use threshold. Upon termination, all rights granted under this
+Agreement cease immediately.
+
+------------------------------------------------------------
