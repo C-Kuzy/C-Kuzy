@@ -24,13 +24,15 @@
 <!-- Customized Degree Progression Bar -->
 <!-- TO UPDATE: Change the percentages below to match your credits -->
 <div align="center">
-    <p><strong>Credits Completed: 102 / 120 (85%)</strong></p>
     <p>
-        <img src="https://img.shields.io/badge/Completed-72%25-32CD32?style=for-the-badge" alt="Completed: 86 credits" />
-        <img src="https://img.shields.io/badge/Upcoming-13%25-FFD700?style=for-the-badge" alt="Upcoming: 16 credits" />
-        <img src="https://img.shields.io/badge/Remaining-15%25-gray?style=for-the-badge" alt="Remaining: 18 credits" />
+        <img src="https://img.shields.io/badge/Completed-72%25-32CD32?style=for-the-badge"
+            alt="Completed: 86 credits" />
+        <img src="https://img.shields.io/badge/Upcoming-13%25-FFD700?style=for-the-badge"
+            alt="Upcoming: 16 credits" />
+        <img src="https://img.shields.io/badge/Remaining-15%25-gray?style=for-the-badge"
+            alt="Remaining: 18 credits" />
     </p>
-    <p>🟢 Completed: 86 credits | 🟡 Upcoming: 16 credits | ⚫ Remaining: 18 credits</p>
+    <strong>🟢 = 86 | 🟡 = 16  | ⚫= 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
 </div>
 
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
