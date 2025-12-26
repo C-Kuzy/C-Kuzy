@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Remaining-15%25-red?style=for-the-badge"
             alt="Remaining: 18 credits" width="155" height="30.5" />
     </p>
-    <strong>🟢 = 86 | 🟡 = 16  | ⚫= 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
+    <strong>🟢 = 86 | 🟡 = 16  | 🔴 = 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
 </div>
 
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
