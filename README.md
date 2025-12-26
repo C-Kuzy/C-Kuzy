@@ -139,15 +139,10 @@
             alt="School Email" width="50" height="50" /> </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800"
         alt="C-Kuzy" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800"
-        alt="C-Kuzy" />
-</p> -->
 
 <footer>
     <p align="center" text-sm>
