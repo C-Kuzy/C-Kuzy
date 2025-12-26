@@ -3,22 +3,6 @@
 <!DOCTYPE html>
 <html lang="en" data-darkreader-mode="dynamic" data-darkreader="dark" injected="true">
 
-<!-- <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width = device - width, initial - scale = 1.0" />
-    <title>C-Kuzy | README</title>
-    <style>
-        a {
-            text-decoration: none;
-            display: inline-block;
-            margin: 0;
-            padding: 0;
-        }
-        p { font-size: 10; }
-        p a { font-size: 16px; }
-    </style>
-</head> -->
-
 <body style="background-color: black", text="white">
     <a id="readme-top"></a>
 
