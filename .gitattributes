@@ -41,3 +41,15 @@
   *.jpg linguist-detectable=false
   *.jpeg linguist-detectable=false
   *.gif linguist-detectable=false
+  *.mp4 linguist-detectable=false
+  *.wmv linguist-detectable=false
+  *.psd linguist-detectable=false
+  *.zip linguist-detectable=false
+  *.php linguist-detectable=false
+  *.iso linguist-detectable=false
+  *.dmg linguist-detectable=false
+  *.bat linguist-detectable=false
+  *.dll linguist-detectable=false
+  *.wav linguist-detectable=false
+  *.flac linguist-detectable=false
+  *.mov linguist-detectable=false
