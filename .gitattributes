@@ -15,7 +15,7 @@
  # Current Repository: C-Kuzy/C-Kuzy/README
  # CURRENT ACTIVE FILE REFERENCE
 
- "Files This Repository Wants to detect:"
+ "Files This Repository Wants to Detect:"
   *.html linguist-detectable=true
 
  "Files This Repository is Restricing:"
