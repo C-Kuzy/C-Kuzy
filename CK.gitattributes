@@ -50,4 +50,4 @@
   *.wav linguist-detectable=false
   *.flac linguist-detectable=false
   *.mov linguist-detectable=false
-  *.cvs linguist-detectable=false
+  *.csv linguist-detectable=false

@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/CKGHub.html"
+      "destination": "/Progress_Image.html"
     }
   ],
   "buildCommand": null,
