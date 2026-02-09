@@ -1,5 +1,7 @@
 <!-- Welcome to the C-Kuzy/README.md file! Feel free to use any of the code I have below!-->
 
+![Incoming](./assets/ML-Offer-GithubRDME.gif)
+
 <a id="readme-top"></a>
 
 <!-- Introduction Line w/ Impactful & Professional Statement-->
