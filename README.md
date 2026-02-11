@@ -37,6 +37,8 @@
     <strong>🟢 = 86 | 🟡 = 16  | 🔴 = 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
 </div>
 
+![Website Preview](./assets/DegProjBar.png)
+
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
 <h3 align="center"> </h3>
 
