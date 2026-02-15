@@ -51,3 +51,4 @@
   *.flac linguist-detectable=false
   *.mov linguist-detectable=false
   *.csv linguist-detectable=false
+  *.heif linguist-detectable=false
