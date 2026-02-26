@@ -1,0 +1,27 @@
+{
+  "name": "c-kuzy-profile",
+  "version": "1.0.0",
+  "description": "C-Kuzy GitHub Profile README with interactive elements",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "portfolio"
+  ],
+  "author": "Connor Kouznetsov (C-Kuzy)",
+  "license": "SEE EULA LICENSE IN EULA-LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/C-Kuzy/C-Kuzy"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "terser": "^5.26.0"
+  }
+}
