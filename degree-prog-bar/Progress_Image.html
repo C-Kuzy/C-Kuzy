@@ -1,0 +1,38 @@
+<!-- Author: C-Kuzy -->
+
+<head>
+<body style="background-color: black", text="white">
+    
+<!-- Customized Degree Progression Bar -->
+    <div style="max-width: 600px; margin: 20px auto; padding: 0 20px;">
+        
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span style="color: white; font-size: 14px;">Credits Completed</span>
+            <span style="color: white; font-size: 14px;"><strong id="credits-completed">0</strong> / 120 (<span id="percentage">0</span>%)</span>
+        </div>
+        <div style="width: 100%; background-color: #333; border-radius: 10px; border: 2px solid #555; position: relative; height: 30px; overflow: hidden;">
+            <div style="position: absolute; top: 0; left: 0; height: 30px; display: flex; width: 100%;">
+                <div id="progress-bar" style="width: 0%; height: 100%; background-color: #32CD32; transition: width 0.5s ease; flex-shrink: 0;"></div>
+                <div id="upcoming-bar" style="width: 0%; height: 100%; background-color: #FFD700; transition: width 0.5s ease; flex-shrink: 0;"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        /* IMPORTANT: SET CURRENT CREDITS  (change this number as you progress) */
+        const currentCredits = 86; /* TOTAL CREDITS EARNED PER CURRENT SEMESTER */
+        const totalCredits = 120;
+        const percentage = Math.round((currentCredits / totalCredits) * 100);
+
+        const upcomingCredits = 16 /* TOTAL CREDITS FOR FOLLOWING SEMESTER */
+        const updatecurrCredits = currentCredits + upcomingCredits
+        const percentageupdate = Math.round(( updatecurrCredits/totalCredits ) * 100)
+        const upcomingPercentage = Math.round((upcomingCredits / totalCredits) * 100);
+        
+        document.getElementById('credits-completed').textContent = updatecurrCredits;
+        document.getElementById('percentage').textContent = percentageupdate;
+        document.getElementById('progress-bar').style.width = percentage + '%';
+        document.getElementById('upcoming-bar').style.width = upcomingPercentage + '%';
+    </script>
+</body>
+</head>
