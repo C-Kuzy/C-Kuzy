@@ -63,4 +63,3 @@ lerna-debug.log*
 .vite/
 dist-ssr/
 *.local
-*deeznutz
