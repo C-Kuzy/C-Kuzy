@@ -5,7 +5,7 @@
 <a id="readme-top"></a>
 
 <!-- Introduction Line w/ Impactful & Professional Statement-->
-<h1 align="center"><strong>
+<h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=30&letterSpacing=Tight&duration=3250&pause=550&color=FF0000&center=true&vCenter=true&width=550&lines=Good+Morning+...;Good+Evening+...;Good+Afternoon+...;Hello%2C+I'm+Connor+Kouznetsov+%E3%83%84" alt="Typing SVG" /></a></h1>
 
 <p align="center">
@@ -56,6 +56,9 @@
     <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
             alt="C" width="45" height="45" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="norferrer">
+        <img src="https://"
+            alt="TS" width="45" height="45" /> </a>
     <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png"
             alt="C++" width="50" height="50" /> </a>
@@ -145,21 +148,20 @@
 </p>
 
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" 
+    <img src = "https://streak-stats.demolab.com/?user=C-Kuzy&theme=algolia&hide_border=false" 
       alt = "C-Kuzy" />
 </p>
-
-<p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" 
-      alt = "C-Kuzy" />
-    </p>
+https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800
 
 <p align = "center">
     <img src = "https://github-readme-stats.shion.dev/api?username=C-Kuzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&text_color=ffffff&cache_seconds=1800&border_color=ff0000" 
       alt = "C-Kuzy" />
 </p>
   
-
+<p align = "center">
+    <img src = "https://github-readme-stats.shion.dev/api/top-langs/?username=C-Kuzy&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact&text_color=ffffff&cache_seconds=1800&border_color=ff0000" 
+      alt = "C-Kuzy" />
+</p>
 
 
 <p align="center">
