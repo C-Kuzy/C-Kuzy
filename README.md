@@ -5,7 +5,12 @@
 <a id="readme-top"></a>
 
 <!-- Introduction Line w/ Impactful & Professional Statement-->
-<h1 align="center"><strong>Hello, I'm Connor Kouznetsov ツ</strong></h1>
+<h1 align="center"><strong>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=30&letterSpacing=Tight&duration=3250&pause=550&color=FF0000&center=true&vCenter=true&width=550&lines=Good+Morning+...;Good+Evening+...;Good+Afternoon+...;Hello%2C+I'm+Connor+Kouznetsov+%E3%83%84" alt="Typing SVG" /></a></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Software+Engineer+Co-op+%40+CAE+(Summer+2026);CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
+</p>
 
 <!-- Basic Information: Geographic Location, -->
 <p><h3 align="center">
@@ -24,7 +29,7 @@
 <h3 align="center"><strong>Degree: Computer Science Engineering (B.S.C.S.E.)</strong></h3>
 
 <!-- Customized Degree Progression Bar -->
-<!-- TO UPDATE: Change the percentages below to match your credits -->
+<!-- TO UPDATE: Change the percentages below to match your credits 
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/Completed-72%25-32CD32?style=for-the-badge"
@@ -35,7 +40,7 @@
             alt="Remaining: 18 credits" width="155" height="30.5" />
     </p>
     <strong>🟢 = 86 | 🟡 = 16  | 🔴 = 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
-</div>
+</div> -->
 
 ![Website Preview](./assets/DegProjBar.png)
 
@@ -142,15 +147,23 @@
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" 
       alt = "C-Kuzy" />
-  </p>
+</p>
 
-  <p align = "center">
+<p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=C-Kuzy&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" 
       alt = "C-Kuzy" />
-  </p>
+    </p>
+
+<p align = "center">
+    <img src = "https://github-readme-stats.shion.dev/api?username=C-Kuzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&text_color=ffffff&cache_seconds=1800&border_color=ff0000" 
+      alt = "C-Kuzy" />
+</p>
+  
+
+
 
 <p align="center">
-    © 2025 C-Kuzy Solutions |
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=FF0000&center=true&width=300&lines=%C2%A9+2025+C-Kuzy+Solutions" alt="Typing SVG" /></a> |
     <a href="#readme-top"> Back to Top </a>
 </p>
 

@@ -1,6 +1,6 @@
 {
   "name": "c-kuzy-profile",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "C-Kuzy GitHub Profile README with interactive elements",
   "type": "module",
   "scripts": {
