@@ -42,7 +42,7 @@
     <strong>🟢 = 86 | 🟡 = 16  | 🔴 = 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
 </div> -->
 
-![Website Preview](./assets/DegProjBar.png)
+<!--![Website Preview](./assets/DegProjBar.png) -->
 
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
 <h3 align="center"> </h3>
@@ -55,10 +55,10 @@
             alt="GoLang" width="50" height="50" /> </a>
     <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"
-            alt="C" width="45" height="45" /> </a>
+            alt="C" width="50" height="50" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="norferrer">
         <img src="https://"
-            alt="TS" width="45" height="45" /> </a>
+            alt="TS" width="50" height="50" /> </a>
     <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png"
             alt="C++" width="50" height="50" /> </a>
@@ -165,8 +165,10 @@ https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=
 
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=FF0000&center=true&width=300&lines=%C2%A9+2025+C-Kuzy+Solutions" alt="Typing SVG" /></a> |
-    <a href="#readme-top"> Back to Top </a>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=FF0000&center=true&width=250&lines=%C2%A9+2025+C-Kuzy+Solutions" alt="Typing SVG" align="middle" />
+   </a>
+   &nbsp; | <a href="#readme-top">Back to Top</a>
 </p>
 
 <!--- C-Kuzy/C-Kuzy is my ✨ special ✨ repository with a `README.md` file which on my GitHub profile. You can click the Preview link to view any changes. --->
