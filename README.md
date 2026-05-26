@@ -28,20 +28,6 @@
 <h3 align="center"><strong>Uprising Undergrad Senior @ The University of South Florida</strong></h3>
 <h3 align="center"><strong>Degree: Computer Science Engineering (B.S.C.S.E.)</strong></h3>
 
-<!-- Customized Degree Progression Bar -->
-<!-- TO UPDATE: Change the percentages below to match your credits 
-<div align="center">
-    <p>
-        <img src="https://img.shields.io/badge/Completed-72%25-32CD32?style=for-the-badge"
-            alt="Completed: 86 credits" width="155" height="30.5" />
-        <img src="https://img.shields.io/badge/Upcoming-13%25-FFD700?style=for-the-badge"
-            alt="Upcoming: 16 credits" width="155" height="30.5" />
-        <img src="https://img.shields.io/badge/Remaining-15%25-red?style=for-the-badge"
-            alt="Remaining: 18 credits" width="155" height="30.5" />
-    </p>
-    <strong>🟢 = 86 | 🟡 = 16  | 🔴 = 18 ⟶ Anticipated  Credits: 102 / 120 (85%)</strong>
-</div> -->
-
 <!--![Website Preview](./assets/DegProjBar.png) -->
 
 <h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
