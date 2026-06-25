@@ -1,6 +1,6 @@
 <!-- Welcome to the C-Kuzy/README.md file! Feel free to use any of the code I have below!-->
 
-![Incoming](./assets/ML-Offer-GithubRDME.gif)
+<!-- ![Incoming](./assets/ML-Offer-GithubRDME.gif) -->
 
 <a id="readme-top"></a>
 
@@ -25,12 +25,9 @@
     </a>
 </h3></p>
 
-<h3 align="center"><strong>Uprising Undergrad Senior @ The University of South Florida</strong></h3>
+<h3 align="center"><strong>Senior @ The University of South Florida</strong></h3>
 <h3 align="center"><strong>Degree: Computer Science Engineering (B.S.C.S.E.)</strong></h3>
-
-<!--![Website Preview](./assets/DegProjBar.png) -->
-
-<h3 align="center">Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong></h3>
+<h3 align="center">Learning: <strong>Application Development for Legacy Data Migration + Reconciliation</strong></h3>
 <h3 align="center"> </h3>
 
 <!-- Displays Programming Experience w/ Icons & Links-->
@@ -134,7 +131,7 @@
 </p>
 
 <p align = "center">
-    <img src = "https://streak-stats.demolab.com/?user=C-Kuzy&theme=algolia&hide_border=false" 
+    <img src = "https://streak-stats.demolab.com/?user=C-Kuzy&theme=algolia&hide_border=false&border_color=ff0000" 
       alt = "C-Kuzy" />
 </p>
 https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800
