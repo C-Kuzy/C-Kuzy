@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Software+Engineer+Co-op+%40+CAE+(Summer+2026);CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
 </p>
 
-<!-- Basic Information: Geographic Location, -->
+<!-- Basic Information -->
 <p><h3 align="center">
     <a>
         <strong>📡: Tampa, FL</strong>
