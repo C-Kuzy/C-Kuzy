@@ -8,10 +8,6 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=30&letterSpacing=Tight&duration=3250&pause=550&color=FF0000&center=true&vCenter=true&width=550&lines=Good+Morning+...;Good+Evening+...;Good+Afternoon+...;Hello%2C+I'm+Connor+Kouznetsov+%E3%83%84" alt="Typing SVG" /></a></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Software+Engineer+Co-op+%40+CAE+(Summer+2026);CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
-</p>
-
 <!-- Basic Information -->
 <p><h3 align="center">
     <a>
