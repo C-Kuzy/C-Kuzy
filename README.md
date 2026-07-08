@@ -128,10 +128,9 @@
     <img src = "https://streak-stats.demolab.com/?user=C-Kuzy&theme=algolia&hide_border=false&border_color=ff0000" 
       alt = "C-Kuzy" />
 </p>
-https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800
 
 <p align = "center">
-    <img src = "https://github-readme-stats.shion.dev/api?username=C-Kuzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&text_color=ffffff&cache_seconds=1800&border_color=ff0000" 
+    <img src = "https://github-readme-stats.shion.dev/api?username=C-Kuzy&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&text_color=ffffff&cache_seconds=1800&border_color=ff0000" 
       alt = "C-Kuzy" />
 </p>
   
