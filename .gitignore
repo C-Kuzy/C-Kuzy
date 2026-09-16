@@ -3,7 +3,7 @@ node_modules/
 .pnp
 .pnp.js
 
-# Note: package-lock.json is typically committed for apps, but ignoring per your pattern
+# package-lock.json is typically committed for apps, but ignoring per your pattern
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
