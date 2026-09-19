@@ -88,7 +88,7 @@
             alt="Miniconda3" width="50" height="50" /> </a>
 </p>
 
-<!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
+<!-- Displays My Preferred Cloud and Development Experience w/ Icons + Links-->
 <h3 align="center"><strong>DataBases & Tools:</strong></h3>
 <p align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
